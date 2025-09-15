@@ -24,5 +24,6 @@ public class NotificationFactory {
 			throw new IllegalArgumentException("Unknown channel "+channel);
 		}
 	}
+	//Checking fetch and merge
         
 }
