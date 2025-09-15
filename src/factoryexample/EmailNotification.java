@@ -16,4 +16,5 @@ public class EmailNotification implements Notification {
 		// TODO Auto-generated method stub
 		System.out.println("Sending an e-mail notification");
 	}
+           //demo
 }
